@@ -7,13 +7,13 @@ cap.set(3,640)
 cap.set(4,480)
  
 classNames = []
-classFile = r'C:\Users\Soham Kulkarni\OneDrive\Documents\GitHub\vechtor\v2\coco.names.txt'
+classFile = r'C:\soham - Personal\Documents\GitHub\vechtor\v2\coco.names.txt'
 with open(classFile,'rt') as f:
     classNames = f.read().rstrip('n').split('n')
 
 #print(classNames)
-configPath = r'C:\Users\Soham Kulkarni\OneDrive\Documents\GitHub\vechtor\v2\ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt'
-weightsPath = r'C:\Users\Soham Kulkarni\OneDrive\Documents\GitHub\vechtor\v2\frozen_inference_graph.pb'
+configPath = r'C:\soham - Personal\Documents\GitHub\vechtor\v2\ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt'
+weightsPath = r'C:\soham - Personal\Documents\GitHub\vechtor\v2\frozen_inference_graph.pb'
  
 net = cv2.dnn_DetectionModel(weightsPath,configPath)
 net.setInputSize(320,320)
