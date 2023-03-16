@@ -18,21 +18,21 @@ mode = counter%4
 
 
 
-while True:
-    if button.is_pressed:
-        if (mode == all):
-            text_speech.say("all")
-            text_speech.runAndWait()
-        elif(mode == bathroom):
-            text_speech.say("bathroom")
-            text_speech.runAndWait()               
-        elif(mode == chair):
-            text_speech.say("chair")
-            text_speech.runAndWait()               
-        elif(mode == door):
-            text_speech.say("door")
-            text_speech.runAndWait()               
-        counter += 1
-    else:
-        print(".")
-    sleep(1)
+#while True:
+#    if button.is_pressed:
+#        if (mode == all):
+#            text_speech.say("all")
+#            text_speech.runAndWait()
+##        elif(mode == bathroom):
+#            text_speech.say("bathroom")
+#            text_speech.runAndWait()               
+#        elif(mode == chair):
+#            text_speech.say("chair")
+#            text_speech.runAndWait()               
+#        elif(mode == door):
+#            text_speech.say("door")
+#            text_speech.runAndWait()               
+#        counter += 1
+#    else:
+#        print(".")
+#    sleep(1)
