@@ -1,0 +1,1000 @@
+  446  vi ./.local/share/Trash/files/miniforge3/etc/profile.d/conda.sh
+  447  vi .bashrc
+  448  ls -ltr  ./project/vechtor/v2/start.sh 
+  449  ./project/vechtor/v2/start.sh 
+  450  chomd 777 ./project/vechtor/v2/start.sh 
+  451  chmod 777 ./project/vechtor/v2/start.sh 
+  452  ls -ltr  ./project/vechtor/v2/start.sh 
+  453  ./project/vechtor/v2/start.sh 
+  454  clear
+  455  ./project/vechtor/v2/start.sh 
+  456  c;lear
+  457  clear
+  458  pwd
+  459  vi .bashrc
+  460  cd projects
+  461  l
+  462  ls
+  463  cd project
+  464  ! source
+  465  source ./env/bin/activate
+  466  python3 main-haptic.py
+  467  cd vechtor/v2/
+  468  python main-haptic.py
+  469  source ./env/bin/activate
+  470  cd project/
+  471  source ./env/bin/activate
+  472  clear
+  473  python3 vechtor/v2/main-haptic.py 
+  474  clear
+  475  python3 vechtor/v2/main-haptic.py 
+  476  clear
+  477  python3 vechtor/v2/main-haptic.py 
+  478  clear
+  479  python3 vechtor/v2/main-haptic.py 
+  480  clear
+  481  python3 vechtor/v2/main-haptic.py 
+  482  clear
+  483  python3 vechtor/v2/main-haptic.py 
+  484  clear
+  485  python3 vechtor/v2/main-haptic.py 
+  486  clear
+  487  python3 vechtor/v2/main-haptic.py 
+  488  clear
+  489  python3 vechtor/v2/main-haptic.py 
+  490  clear
+  491  python3 vechtor/v2/main-haptic.py 
+  492  clear
+  493  python3 vechtor/v2/main-haptic.py 
+  494  clear
+  495  vi .bashrc
+  496  ls
+  497  ls -la 
+  498  pwd
+  499  whoami
+  500  df -h
+  501  curl -sS https://raw.githubusercontent.com/adafruit/Raspberry-Pi-Installer-Scripts/master/i2samp.sh | bash 
+  502  speaker-test -c2
+  503  speaker-test -c2 --test=wav -w /usr/share/sounds/alsa/Front_Center.wav 
+  504  sudo reboot 
+  505  curl -sS https://raw.githubusercontent.com/adafruit/Raspberry-Pi-Installer-Scripts/master/i2samp.sh | bash 
+  506  speaker-test -c2 --test=wav -w /usr/share/sounds/alsa/Front_Center.wav 
+  507  sudo reboot
+  508  pip install gTT
+  509  pip install gTTS
+  510  clear
+  511  cd project/
+  512  source ./env/bin/activate
+  513  pip install gTTS
+  514  clear
+  515  python3 ./vechtor/v2/testsound.py 
+  516  rm -rf /home/pi/project/soham.mp3 
+  517  clear
+  518  python3 ./vechtor/v2/testsound.py 
+  519  clear
+  520  python3 ./vechtor/v2/testsound.py 
+  521  clear
+  522  python3 vechtor/v2/main-haptic.py 
+  523  clear
+  524  python3 vechtor/v2/main-haptic.py 
+  525  clear
+  526  python3 vechtor/v2/main-haptic.py 
+  527  clear
+  528  python3 vechtor/v2/main-haptic.py 
+  529  cd /media/pi/SOKUL13_USB/
+  530  ls -ltr 
+  531  mpg321 welcome.p4a
+  532  mpg321
+  533  cp bus.m4a bus.mp3
+  534  vf /media/pi/SOKUL13_USB/
+  535  cd  /media/pi/SOKUL13_USB/
+  536  mpg321 ls -ltr 
+  537  sudo apt upate
+  538  sudo apt update
+  539  sudo apt install omxplayer
+  540  sudo apt install mplayer
+  541  clear
+  542  sudo apt uninstall mplaye
+  543  mpg123
+  544  cd project/
+  545  mpg123
+  546  cd /
+  547  sudo . -name mpg123*
+  548  sudo find . -name mpg123*
+  549  clear
+  550  sudo apt install mpd
+  551  df -h 
+  552  history | grep curl
+  553  cd proc/
+  554  cd ..
+  555  pwd
+  556  cd 
+  557  cd project/
+  558  source ./env/bin/activate
+  559  speaker-test -c2 --test=mp3 -w /home/pi/project/vechtor/v2/mp3/welcome.mp3 
+  560  mpg123 /home/pi/project/vechtor/v2/mp3/welcome.mp3 
+  561  mpg123 /home/pi/project/vechtor/v2/mp3/bus.mp3 
+  562  mpg123 /home/pi/project/vechtor/v2/mp3/chair.mp3 
+  563  mpg123 /home/pi/project/vechtor/v2/mp3/person.mp3 
+  564  mpg123 /home/pi/project/vechtor/v2/mp3/welcome.mp3 
+  565  python3 ./vechtor/v2/testsound.py 
+  566  cd project/
+  567  source ./env/bin/activate
+  568  mpg123 /home/pi/project/vechtor/v2/mp3/welcome.mp3 
+  569  python3 ./vechtor/v2/testsound.py 
+  570  python3
+  571  cd project/
+  572  source ./env/bin/activate
+  573  python3 ./vechtor/v2/testsound.py 
+  574  python3 ./vechtor/v2/main-haptic.py 
+  575  clear
+  576  python3 ./vechtor/v2/main-haptic.py 
+  577  clear
+  578  python3 ./vechtor/v2/main-haptic.py 
+  579  clear
+  580  python3 ./vechtor/v2/main-haptic.py 
+  581  clear
+  582  python3 ./vechtor/v2/main-haptic.py 
+  583  exit
+  584  sudo apt-get update
+  585  sudo apt-get install mpg123
+  586  mpg123
+  587  clear
+  588  vi .bashrc
+  589  cd project/
+  590  tail -f ./logs/vechtor.log 
+  591  clear
+  592  tail -f ./logs/vechtor.log 
+  593  clear
+  594  vi .bashrc
+  595  cd ..
+  596  clear
+  597  vi .bashrc
+  598  ps -ef |grep python
+  599  ps -ef |grep haptic
+  600  clear
+  601  vi .bashrc 
+  602  cd project/
+  603  tail -f ./logs/vechtor.log 
+  604  ps -ef | grep haptic
+  605  kill -9 5400
+  606  clear
+  607  tail -f ./logs/vechtor.log 
+  608  rm -rf ./logs/vechtor.log 
+  609  clear
+  610  ps -ef | grep haptic
+  611  kill -9 5536
+  612  tail -f ./project/logs/vechtor.log 
+  613  vi /etc/rc.local 
+  614  sudo vi  /etc/rc.local 
+  615  cat   /etc/rc.local 
+  616  sudo vi  /etc/rc.local 
+  617  clear
+  618  ps -ef 
+  619  ps -ef | grep start
+  620  kill -9 3675
+  621  ps -ef | grep start
+  622  ps -ef | grep haptic
+  623  kill -9 3758
+  624  cd mpro
+  625  cd project/
+  626  source ./env/bin/activate
+  627  python3 ./vechtor/v2/main-haptic.py 
+  628  clear
+  629  python3 ./vechtor/v2/main-haptic.py 
+  630  clear
+  631  python3 ./vechtor/v2/main-haptic.py 
+  632  pinout
+  633  mkdir logs
+  634  python3 ./vechtor/v2/main-haptic.py 
+  635  clear
+  636  python3 ./vechtor/v2/main-haptic.py 
+  637  ls -lrt logs/
+  638  view logs/vechtor.log 
+  639  rm -rf  logs/vechtor.log 
+  640  python3 ./vechtor/v2/main-haptic.py 
+  641  clear
+  642  rm -rf  logs/vechtor.log 
+  643  cd ..
+  644  vi .bashrc 
+  645  cat /etc/rc.local 
+  646  export GPIOZERO_PIN_FACTORY=rpigpio
+  647  rm -rf /home/pi/project/logs/vechtor.log
+  648  /home/pi/project/vechtor/v2/start.sh > /home/pi/project/logs/vechtor.log 1>&2 &
+  649  kill -9 5663
+  650  ps -ef  | grep haptic
+  651  kill -9 5667
+  652  ps -ef  | grep haptic
+  653  clear
+  654  vi .bashrc 
+  655  ps -ef | grep haptic
+  656  tail -f ./project/logs/vechtor.log 
+  657  ps -ef | grep haptic
+  658  kill -9 580
+  659  sudo kill -9 580
+  660  ps -ef | grep haptic
+  661  tail -f ./project/logs/vechtor.log 
+  662  history | grep nano
+  663  history | grep sudo
+  664  history | grep rc
+  665  cat /etc/rc.local 
+  666  sudo nano /etc/rc.local 
+  667  /home/pi/project/vechtor/v2/start.sh > /home/pi/project/logs/vechtor.log 1>&2 &
+  668  sudo nano /etc/rc.local 
+  669  ps -ef | grep haptic
+  670  clear
+  671  tail -3 .bashrc 
+  672  rm -rf ./project/logs
+  673  mkdir ./project/logs
+  674  cd project
+  675  source ./env/bin/activate
+  676  ps -ef | grep haptic
+  677  kill -9 1956
+  678  ps -ef | grep haptic
+  679  tail -f .logs
+  680  tail -f./logs/v
+  681  tail -f ./logs/vechtor.log 
+  682  ps -ef | grep haptic
+  683  kill -9 2009
+  684  ps -ef | grep haptic
+  685  kill -9 2124
+  686  ps -ef | grep haptic
+  687  clear
+  688  history 
+  689  sudo vi /etc/rc.local
+  690  cat  /etc/rc.local
+  691  wq
+  692  sudo reboot now
+  693  tail -f project/logs/vechtor.log 
+  694  sudo reboot now
+  695  ps -ef | grep haptic
+  696  kill -9 589
+  697  sudo kill -9 589
+  698  clear
+  699  ls -ltr 
+  700  cd project/
+  701  cd logs/
+  702  l s-ltr 
+  703  ls -ltr 
+  704  view vechtor.log 
+  705  clear
+  706  sudo reboot now
+  707  ps -ef | grep haptic
+  708  cd project/logs/
+  709  ls -lt 
+  710  ls -ltr 
+  711  tail -f vechtor.log 
+  712  ls -ltr 
+  713  ps -ef | grep haptic
+  714  cat /etc/rc.local
+  715  ps -ef | grep haptic
+  716  cd project/
+  717  source ./env/bin/activate
+  718  python3 ./vechtor/v2/main-haptic.py 
+  719  rm -rf ./logs/vechtor.log 
+  720  python3 ./vechtor/v2/main-haptic.py 
+  721  clear
+  722  sudo reboot now
+  723  cd project/logs/
+  724  tail -f vechtor.log 
+  725  ps -ef | grep haptic
+  726  kill -9 581
+  727  ps -ef | grep haptic
+  728  sudo ps -ef | grep haptic
+  729  sudo kill -9 581
+  730  ps -ef | grep haptic
+  731  clear
+  732  ls 
+  733  rm -rf vechtor.log 
+  734  sudo reboot now
+  735  cd project/logs/
+  736  tail -f vechtor.log 
+  737  sudo  reboot now
+  738  which tf
+  739  which tensorflow
+  740  rm -rf vechtor.log 
+  741  ps -ef | grep haptic
+  742  sudo kill -9 565
+  743  ps -ef | grep haptic
+  744  cd /project
+  745  cd /home/project
+  746  cd /home/pi
+  747  cd /home
+  748  cd pi
+  749  pwd
+  750  cd project/
+  751  source ./env/bin/activate
+  752  which tensorflow
+  753  python3
+  754  sudo shutdown now
+  755  df -h
+  756  pwd
+  757  cd 
+  758  cd /
+  759  sudo du -hs * | sort -rh | head -10
+  760  top
+  761  netstat -an
+  762  clear
+  763  sudo du -hs * | sort -rh | head -10
+  764  cd home/
+  765  sudo du -hs * | sort -rh | head -10
+  766  cd pi/
+  767  sudo du -hs * | sort -rh | head -10
+  768  pwd
+  769  sud
+  770  ps -ef | grep pdf
+  771  kill -9 3142
+  772  kill -9 2845
+  773  ps -ef | grep pdf
+  774  clear
+  775  pwdsudo 
+  776  cd project/
+  777  source ./env/bin/activate
+  778  pip install roboflow
+  779  clear
+  780  python3 ./vechtor/v2/main-robo.py 
+  781  clear
+  782  python3 ./vechtor/v2/main-robo.py 
+  783  curl http://localhost:9001
+  784  curl http://localhost:9001/server
+  785  curl http://localhost:9001
+  786  python3 ./vechtor/v2/main-robo.py 
+  787  curl http://localhost:9001
+  788  clear
+  789  python3 ./vechtor/v2/main-robo.py 
+  790  clear
+  791  python3 ./vechtor/v2/main-robo.py 
+  792  clear
+  793  python3 ./vechtor/v2/main-robo.py 
+  794  clear
+  795  python3 ./vechtor/v2/main-robo.py 
+  796  clear
+  797  python3 ./vechtor/v2/main-robo.py 
+  798  python3 ./vechtor/v2/main-robo-haptic.py 
+  799  sudo rm -rf ./logs/vechtor.log 
+  800  python3 ./vechtor/v2/main-robo-haptic.py 
+  801  clear
+  802  python3 ./vechtor/v2/main-robo-haptic.py 
+  803  tail -20 ./logs/vechtor.log 
+  804  clear
+  805  tail -20 ./logs/vechtor.log 
+  806  clear
+  807  rm  ./logs/vechtor.log 
+  808  clear
+  809  tail -20 ./logs/vechtor.log 
+  810  clear
+  811  python3 ./vechtor/v2/main-robo-haptic.py 
+  812  exit
+  813  ps -ef | grep haptc
+  814  ps -ef | grep haptic
+  815  sudo kill -9 568
+  816  ps -ef | grep haptic
+  817  clear
+  818  cd project/
+  819  source ./env/bin/activate
+  820  curl -fsSl https://get.docker.com -o get-docker.sh
+  821  sudo sh get-docker.sh 
+  822  sudo apt-get update
+  823  sudo sh get-docker.sh --fix-missing
+  824  sudo docker pull roboflow/inference-server:cpu
+  825  sudo docker run --net=host roboflow/inference-server:cpu
+  826  clear
+  827  sudo docker run --net=host roboflow/inference-server:cpu
+  828  ps -ef | grep haptic
+  829  sudo kill -9 584
+  830  ps -ef | grep haptic
+  831  sudo vi /etc/rc.local
+  832  tail -10 /etc/rc.local
+  833  clear
+  834  sudo shutdown now
+  835  history
+  836  tail -10 /etc/rc.local
+  837  cd log
+  838  cd project/logs/
+  839  ls -ltr 
+  840  sudo rm -rf vechtor.log 
+  841  clear
+  842  cd ..
+  843  ./vechtor/v2/start.sh 
+  844  cd logs/
+  845  tail -f vechtor.log 
+  846  tail -15 vechtor.log 
+  847  view vechtor.log 
+  848  tail -15 vechtor.log 
+  849  ps -ef | grep haptic
+  850  clear
+  851  ps -ef | grep haptic
+  852  kill -9 1905
+  853  clear
+  854  tail -1 /home/pi/project/logs/docker.log | grep "inference-server is ready to receive traffic" 
+  855  tail -1 /home/pi/project/logs/docker.log
+  856  tail -2 /home/pi/project/logs/docker.log
+  857  tail -2 /home/pi/project/logs/docker.log | grep "inference-server is ready to receive traffic" 
+  858  rm -rf vechtor.log 
+  859  cd ..
+  860  clear
+  861  ./vechtor/v2/start.sh 
+  862  kill -9 3098
+  863  kill -9 3096
+  864  ps -ef | grep docker 
+  865  sudo kill -9 2097
+  866  sudo kill -9 3097
+  867  ps -ef | grep docker 
+  868  sudo kill -9 3327
+  869  ps -ef | grep docker 
+  870  clear
+  871  ./vechtor/v2/start.sh 
+  872  sudo kill -9 4050
+  873  ./vechtor/v2/start.sh 
+  874  tail -1 /home/pi/project/logs/docker.log | grep "ready to receive traffic
+  875  tail -1 /home/pi/project/logs/docker.log | grep "ready to receive traffic"
+  876  ./vechtor/v2/start.sh 
+  877  tail -1 /home/pi/project/logs/docker.log | grep "ready to receive traffic"
+  878  ./vechtor/v2/start.sh 
+  879  tail -f ./logs/vechtor.log 
+  880  ps -ef | grep docker
+  881  ps -ef | grep haptic
+  882  kill -9 4615
+  883  ps -ef | grep haptic
+  884  clear
+  885  cd project/logs/
+  886  ls- ltr 
+  887  ls -ltr 
+  888  tail -f docker.log 
+  889  ps -ef | grep haptic
+  890  ps -ef | grep docker
+  891  kill -9 1904
+  892  ps -ef | grep docker
+  893  kill -9 1907
+  894  sudo kill -9 1907
+  895  clear
+  896  ps -ef | grep docker
+  897  kill -9 618
+  898  sudo kill -9 618
+  899  clear
+  900  ps -ef | grep docker
+  901  clear
+  902  l s-ltr 
+  903  ls -ltr 
+  904  tail -f 10 docker.log 
+  905  clear
+  906  ls -ltr 
+  907  clear
+  908  ls -ltr 
+  909  tail -f docker.log 
+  910  clear
+  911  tail -f docker.log 
+  912  clear
+  913  ls -ltr 
+  914  la -lre 
+  915  ls -ltr 
+  916  tail -f docker.log 
+  917  sudo docker stop --net=host roboflow/inference-server:cpu
+  918  sudo docker stop --net=host
+  919  tail -f ./project/logs/docker.log 
+  920  ps -ef | grep haptic
+  921  kill -9 6190
+  922  ps -ef | grep haptic
+  923  clear
+  924  ps -ef | grep docker
+  925  sudo docker stop 
+  926  sudo docker stop --net=host
+  927  sudo docker stop roboflow/inference-server:cpu
+  928  sudo docker ls
+  929  sudo docker list-container
+  930  sudo docker --help
+  931  sudo docker container ls
+  932  sudo docker container stop roboflow/inference-server:cpu
+  933  sudo docker --stop roboflow/inference-server:cpu
+  934  sudo docker container ls
+  935  sudo docker container stop fd50dc5793cd
+  936  sudo docker container ls
+  937  clear
+  938  tail -f ./project/logs/docker.log 
+  939  source ./env/bin/activate
+  940  cd project/
+  941  source ./env/bin/activate
+  942  python3 ./vechtor/v2/main-robo-haptic.py 
+  943  clear
+  944  ls -ltr 
+  945  ./vechtor/v2/start.sh 
+  946  kill -9 6805
+  947  clear
+  948  chmod +x ./vechtor/v2/startrobo.sh 
+  949  clear
+  950  ls -ltr ./vechtor/v2/start*
+  951  chmod 777 ./vechtor/v2/startrobo.sh 
+  952  clear
+  953  exit
+  954  cd project/logs/
+  955  tail -f vechtor.log 
+  956  ps -ef | grep haptic
+  957  kill -9 6987
+  958  ps -ef | grep haptic
+  959  clear
+  960  ./project/vechtor/v2/startrobo.sh 
+  961  clear
+  962  sudo vi /etc/rc.local
+  963  sudo reboot now 
+  964  ps -ef | grep haptic
+  965  ps -ef | grep docker
+  966  kill -9 4054
+  967  sudo kill -9 4054
+  968  ps -ef | grep docker
+  969  sudo kill -9 3430
+  970  clear
+  971  ./project/vechtor/v2/start.sh 
+  972  tail -f ./project/logs/vechtor.log 
+  973  clear
+  974  ls -ltr 
+  975  cd log
+  976  ls -ltr 
+  977  cd logs
+  978  ls -ltr 
+  979  cd project/logs/
+  980  ls -ltr 
+  981  tail -f  vechtor.log 
+  982  ls -ltr 
+  983  clear
+  984  ls -ltr 
+  985  tail -f docker.log 
+  986  ls- ltr
+  987  ls -ltr ../vechtor/v2/start*
+  988  clear
+  989  ls -ltr 
+  990  sudo rm -rf *.log
+  991  ls -ltr 
+  992  cd ./project/logs/
+  993  ls -lt 
+  994  ls -ltr 
+  995  tail -f docker.log 
+  996  tail -f vechtor.log 
+  997  ps -ef | grep haptic
+  998  ls -lt 
+  999  ls -ltr 
+ 1000  rm -rf * 
+ 1001  clear
+ 1002  ls -ltr 
+ 1003  sudo tail -10 /etc/rc.local
+ 1004  sudo reboot now 
+ 1005  cd project/
+ 1006  cd logs/
+ 1007  ls -ltr 
+ 1008  tail -f vechtor.log 
+ 1009  tail -10 docker.log 
+ 1010  tail -f vechtor.log 
+ 1011  ls -ltr 
+ 1012  ps -ef | grep haptic
+ 1013  ps -ef | grep robo
+ 1014  rm -rf vechtor.log 
+ 1015  ls -ltr 
+ 1016  sudo vi /etc/rc.local
+ 1017  sudo docker container ls
+ 1018  sudo docker container stop 796dcff80f6c
+ 1019  sudo docker container ls
+ 1020  clear
+ 1021  ls -ltr 
+ 1022  rm -rf docker.log 
+ 1023  clear
+ 1024  sudo reboot now 
+ 1025  xs project/logs/
+ 1026  ls -ltr 
+ 1027  cd  project/logs/
+ 1028  ls -ltr 
+ 1029  cat startup.log 
+ 1030  cat docker.log 
+ 1031  clear
+ 1032  ps -ef | grep haptic
+ 1033  cat startup.log 
+ 1034  ps -ef | grep 1010
+ 1035  clear
+ 1036  ls -ltr 
+ 1037  cd ..
+ 1038  ./project/vechtor/v2/startrobo.sh 
+ 1039  cd project/
+ 1040  cd logs/
+ 1041  ls -ltr 
+ 1042  tail -f vechtor.log 
+ 1043  ls -ltr 
+ 1044  ps -ef | grep vechtor
+ 1045  ps -ef | grep haptic
+ 1046  kill -9 1811
+ 1047  ps -ef | grep haptic
+ 1048  clear
+ 1049  ls -ltr 
+ 1050  cat startup.log 
+ 1051  clea
+ 1052  clear
+ 1053  rm -rf vechtor.log 
+ 1054  ls -ltr 
+ 1055  cat /etc/rc.local
+ 1056  clear
+ 1057  ls -ltr 
+ 1058  sudo reboot now 
+ 1059  cd project/logs/
+ 1060  ls -ltr 
+ 1061  ps -ef  | grep haptic
+ 1062  ls -ltr /var/log/
+ 1063  tail -15  /var/log/boot.log
+ 1064  sudo tail -15  /var/log/boot.log
+ 1065  tail -15  /var/log/boot.log
+ 1066  ls -ltr /var/log/
+ 1067  ps -ef | grep docker
+ 1068  cat startup.log 
+ 1069  ps -ef | grep 875
+ 1070  sudo /etc/rc.local
+ 1071  sudo vi /etc/rc.local
+ 1072  clear
+ 1073  ls -ltr 
+ 1074  tail -f vechtor.log 
+ 1075  clear
+ 1076  ls -ltr 
+ 1077  sudo rm -rf *.log
+ 1078  sudo /etc/rc.local
+ 1079  ps -ef | grep haptic
+ 1080  clear
+ 1081  ls -ltr 
+ 1082  rm -rf docker.log 
+ 1083  ls -ltr 
+ 1084  /etc/rc.local
+ 1085  ls -ltr 
+ 1086  tail -f vechtor.log 
+ 1087  cd project/log
+ 1088  cd project/logs/
+ 1089  ls -ltr 
+ 1090  view vechtor.log 
+ 1091  view docker.log 
+ 1092  ps -ef | grep haptic
+ 1093  kill -9 1927
+ 1094  sudo kill -9 1927
+ 1095  ps -ef | grep haptic
+ 1096  view docker.log 
+ 1097  sudo vi /etc/rc.local
+ 1098  chmod 777 ../vechtor/v2/startdocker.sh 
+ 1099  clear
+ 1100  sudo vi  /etc/rc.local
+ 1101  sudo docker container ls
+ 1102  sudo docker container stop 1883f3a73ed3
+ 1103  sudo docker container stop a9b8d4ee4045
+ 1104  sudo docker container ls
+ 1105  clear
+ 1106  sudo vi /etc/rc.local
+ 1107  sudo docker container ls
+ 1108  sudo docker container stop b355fa04e64c
+ 1109  sudo docker container ls
+ 1110  clear
+ 1111  sudo docker container ls
+ 1112  clear
+ 1113  ls -ltr 
+ 1114  tail pf docker.log 
+ 1115  sudo docker container ls
+ 1116  sudo docker container stop b355fa04e64c
+ 1117  sudo docker container ls
+ 1118  sudo docker container stop dcfeab2d728b
+ 1119  ps -ef | grep haptic
+ 1120  ps -ef | grep docker
+ 1121  clear
+ 1122  sudo reboot now 
+ 1123  cd project/logs/
+ 1124  ls -ltr 
+ 1125  cat vechtor.log 
+ 1126  ls -ltr 
+ 1127  tail f- docker.log 
+ 1128  ls -ltr
+ 1129  ls -ltr 
+ 1130  tail -f vechtor.log 
+ 1131  clear
+ 1132  ls -ltr
+ 1133  tail -f docker.log 
+ 1134  cat vechtor.log 
+ 1135  ls -ltr 
+ 1136  rm -rf *
+ 1137  l s-ltr 
+ 1138  ls -ltr
+ 1139  ps -ef | grep haptic
+ 1140  sudo vi /etc/rc.local
+ 1141  sudo reboot now
+ 1142  ls -ltr project/logs/
+ 1143  cat project/logs/doc
+ 1144  cat project/logs/docker.log 
+ 1145  cat project/logs/vechtor.log 
+ 1146  cd project/logs/
+ 1147  ls -ltr 
+ 1148  cat vechtor.log 
+ 1149  cat docker.log 
+ 1150  ps -ef | grep haptic
+ 1151  sudo vi /etc/rc.local
+ 1152  clear
+ 1153  ls -ltr 
+ 1154  rm vechtor.log 
+ 1155  ls -ltr 
+ 1156  ../vechtor/v2/startrobo.sh 
+ 1157  ls -ltr 
+ 1158  ../vechtor/v2/startrobo.sh 
+ 1159  tail -f vechtor.log 
+ 1160  clear
+ 1161  tail -f vechtor.log 
+ 1162  ps -ef | grep haptic
+ 1163  kill -9 2026
+ 1164  ps -ef | grep haptic
+ 1165  clear
+ 1166  ps -ef | grep haptic
+ 1167  ../vechtor/v2/startrobo.sh 
+ 1168  ps -ef | grep haptic
+ 1169  kill -9 2090
+ 1170  kill -9 2106
+ 1171  ps -ef | grep haptic
+ 1172  clear
+ 1173  ../vechtor/v2/startrobo.sh 
+ 1174  ls -lt 
+ 1175  ls -ltr 
+ 1176  tail -f vechtor.log 
+ 1177  ps -ef | grep haptic
+ 1178  kill -9 2125
+ 1179  cat /etc/c.loc
+ 1180  cat /etc/rc.local
+ 1181  sudo  /etc/rc.local
+ 1182  sudo reboot now
+ 1183  cd project/logs/
+ 1184  ls- ltr 
+ 1185  ls -ltr 
+ 1186  cat vechtor.log 
+ 1187  ls -ltr 
+ 1188  cat docker.log 
+ 1189  clear
+ 1190  ps -ef | grep haptic
+ 1191  sudo vi /etc/rc.local
+ 1192  ps -ef | grep haptic
+ 1193  cat vechtor.log 
+ 1194  ps -ef | grep 752
+ 1195  sudo vi /etc/rc.local
+ 1196  cd project/logs/
+ 1197  ls -ltr 
+ 1198  sudo docker container ls
+ 1199  sudo docker container stop 1c63123b31ea
+ 1200  sudo /etc/rc.local
+ 1201  kill -9 2585
+ 1202  sudo kill -9 2585
+ 1203  cat /etc/rc.local
+ 1204  exit
+ 1205  cd project/
+ 1206  cd logs/
+ 1207  ls -ltr 
+ 1208  cat vechtor.log 
+ 1209  ls -ltr 
+ 1210  tail -f vechtor.log 
+ 1211  ls -ltr 
+ 1212  ps -ef | grep haptic
+ 1213  ls -ltr 
+ 1214  tail -f vechtor.log 
+ 1215  cleear
+ 1216  clear
+ 1217  ls -ltr 
+ 1218  sudo rm -rf *
+ 1219  ls -ltr 
+ 1220  sudo reboot now
+ 1221  cd project/logs/
+ 1222  ls -lr
+ 1223  ls -ltr 
+ 1224  cat startup.log 
+ 1225  cat docker.log 
+ 1226  clear
+ 1227  cat startup.log 
+ 1228  ls -ltr 
+ 1229  sudo vi /etc/rc.local
+ 1230  sudo /etc/rc.local
+ 1231  sudo kill -9 2810
+ 1232  ls -lr 
+ 1233  ls- ltr 
+ 1234  ls -ltr 
+ 1235  clear
+ 1236  history | grep docker
+ 1237  ~1198
+ 1238  sudo docker container ls
+ 1239  udo docker container stop 0c5c950acd9e
+ 1240  sudo docker container stop 0c5c950acd9e
+ 1241  ls -ltr 
+ 1242  cd  project/logs/
+ 1243  ls -ltr 
+ 1244  tail -10 docker.log 
+ 1245  clear
+ 1246  rm -rf *
+ 1247  ls -ltr 
+ 1248  cat docker.log 
+ 1249  ls -ltr 
+ 1250  cat docker.log 
+ 1251  ls -ltr 
+ 1252  tail -f vechtor.log 
+ 1253  ls -ltr 
+ 1254  clear
+ 1255  rm -rf * 
+ 1256  ls -ltr 
+ 1257  clear
+ 1258  ps -ef | grep haptic
+ 1259  sudo reboot now
+ 1260  cd /
+ 1261  sudo find . -name config.json 
+ 1262  echo $HOME
+ 1263  cat $HOME/.config/roboflow/config.json
+ 1264  pwd
+ 1265  cd
+ 1266  pwd
+ 1267  cd .config/
+ 1268  ls -ltr 
+ 1269  cd 
+ 1270  sudo find . -name roboflow
+ 1271  ls -ltr ./project/env/lib/python3.9/site-packages/roboflow
+ 1272  cd  ./project/env/lib/python3.9/site-packages/roboflow
+ 1273  ls -ltr 
+ 1274  cat config.py 
+ 1275  clear
+ 1276  cd 
+ 1277  clear
+ 1278  cd project/
+ 1279  ls -ltr 
+ 1280  cd /media/pi/SOKUL13_USB/
+ 1281  ls -ltr 
+ 1282  cp config.json /home/pi/project/vechtor/v2/
+ 1283  cd /.config
+ 1284  pwd
+ 1285  cd /
+ 1286  pwd
+ 1287  cd /home/.config
+ 1288  cd
+ 1289  pwd
+ 1290  cd .config
+ 1291  cd roboflow
+ 1292  mkdir roboflow
+ 1293  cd roboflow
+ 1294  cp /home/pi/project/vechtor/v2/rboflow_config
+ 1295  cp /home/pi/project/vechtor/v2/rboflow_config.json config.json
+ 1296  cp /home/pi/project/vechtor/v2/rboflow_config config.json
+ 1297  cp /home/pi/project/vechtor/v2/roboflow_config config.json
+ 1298  cp /home/pi/project/vechtor/v2/roboflow_config.json config.json
+ 1299  ls
+ 1300  echo $HOME
+ 1301  cd /home/root
+ 1302  cd /home/
+ 1303  ls
+ 1304  ls /home/pi/.config/roboflow/config.json 
+ 1305  cd project/logs/
+ 1306  ls -ltr 
+ 1307  ps -ef | grep haptic
+ 1308  ls -ltr 
+ 1309  sudo cat /etc/rc.local
+ 1310  ls -ltr 
+ 1311  ps -ef | grep robo
+ 1312  ls -ltr 
+ 1313  cat /var/log/syslog
+ 1314  grep haptic  /var/log/syslog
+ 1315  cat /var/log/syslog | grep haptic
+ 1316  view  /var/log/syslog
+ 1317  tail -100  /var/log/syslog
+ 1318  view  /var/log/syslog
+ 1319  sudo reboot now
+ 1320  cd project/
+ 1321  cd logs/
+ 1322  ls -ltr 
+ 1323  cat startup.log 
+ 1324  cat /etc/rc.local
+ 1325  ls -ltr 
+ 1326  view docker.log 
+ 1327  cp ../vechtor/v2/roboflow_config.json ~/.config/roboflow/config.json 
+ 1328  cat  ~/.config/roboflow/config.json 
+ 1329  cp ../vechtor/v2/roboflow_config.json ~/.config/roboflow/config.json 
+ 1330  cat  ~/.config/roboflow/config.json 
+ 1331  sudo /etc/rc.local
+ 1332  cd project/logs/
+ 1333  ls -ltr
+ 1334  view /var/log/syslog
+ 1335  grep haptic /var/log/syslog
+ 1336  sudo truncate  /var/log/syslog
+ 1337  trucate --help
+ 1338  truncate --help
+ 1339  ls -ltr /var/log/syslog*
+ 1340  rm -rf  /var/log/syslog.*
+ 1341  sudo rm -rf  /var/log/syslog.*
+ 1342  sudo truncate  /var/log/syslog 
+ 1343  view /var/log/syslog
+ 1344  tail -50  /var/log/syslog
+ 1345  clear
+ 1346  pwd
+ 1347  sudo docker container ls
+ 1348  sudo docker container stop 0a8063eb9801
+ 1349  sudo /etc/rc.local
+ 1350  cd 
+ 1351  view .config/roboflow/config.json 
+ 1352  clear
+ 1353  sudo docker container ls
+ 1354  sudo docker container stop [200~    "ANNOTATION_FORMAT": "ANNOTATION_FORMAT",
+ 1355  sudo docker container 759d7d01886f
+ 1356  sudo docker container stop 759d7d01886f
+ 1357  sudo docker container ls
+ 1358  view /var/log/syslog
+ 1359  tail -50  /var/log/syslog
+ 1360  clar
+ 1361  clear
+ 1362  cd project/logs
+ 1363  ls
+ 1364  tail -f vechtor.log
+ 1365  sudo reboot now
+ 1366  ps -ef | grep haptic
+ 1367  sudo kill -9 875
+ 1368  tail -50 project/logs/vechtor.log
+ 1369  sudo docker container ls
+ 1370  sudo docker container stop 69e1abe373af
+ 1371  sudo reboot now
+ 1372  ps -ef | grep haptic
+ 1373  sudo docker container ls
+ 1374  ps -ef | grep haptic
+ 1375  tail -50 project/logs/vechtor.log
+ 1376  sudo docker container ls
+ 1377  sudo docker container stop 37046be1214f
+ 1378  tail -100  /var/log/syslog
+ 1379  sudo truncate  /var/log/syslog 
+ 1380  sudo truncate  /var/log/syslog --help
+ 1381  sudo truncate  /var/log/syslog --all
+ 1382  sudo truncate  /var/log/syslog --help
+ 1383  sudo reboot now
+ 1384  sudo docker container ls
+ 1385  tail -100  /var/log/syslog
+ 1386  ps -ef | grep haptic
+ 1387  tail -100  /var/log/syslog
+ 1388  ps -ef | grep haptic
+ 1389  cd project/log
+ 1390  cd project/logs
+ 1391  ls -ltr
+ 1392  date
+ 1393  tail -10 docker.log
+ 1394  tail -20 vechtor.log
+ 1395  cat startup.log 
+ 1396  history grep | sys log
+ 1397  history grep | sys.log
+ 1398  history grep | syslog
+ 1399  history |  syslog
+ 1400  history | grep  syslog
+ 1401  tail -100  /var/log/syslog
+ 1402  tail -100  /var/log/syslog | more
+ 1403  history | grep docker
+ 1404  sudo docker container ls
+ 1405  sudo docker container stop a43d64300af1
+ 1406  sudo docker container ls
+ 1407  clear
+ 1408  sudo /etc/rc.local
+ 1409  ls -ltr 
+ 1410  sudo rm -rf *.log
+ 1411  ls -ltr 
+ 1412  ls -ltr
+ 1413  cat /etc/rc.local
+ 1414  cd project/
+ 1415  cd logs/
+ 1416  ls -ltr 
+ 1417  tail -10 docker.log 
+ 1418  tail -20 vechtor.log 
+ 1419  tail -f vechtor.log 
+ 1420  ps -ef | grep haptic
+ 1421  sudo kill -9 2434
+ 1422  ps -ef | grep haptic
+ 1423  clear
+ 1424  sudo reboot now
+ 1425  clear
+ 1426  cd project/logs/
+ 1427  ls- ltr 
+ 1428  ls -ltr 
+ 1429  sudo rm -rf *.log
+ 1430  ls -ltr 
+ 1431  sudo reboot now
+ 1432  cd project/logs/
+ 1433  tail -f vechtor.log 
+ 1434  ps -ef | grep haptic
+ 1435  sudo kill -9 904
+ 1436  ps -ef | grep haptic
+ 1437  clear
+ 1438  history | grep docker
+ 1439  sudo docker container ls
+ 1440  sudo docker container stop 425f9f7002d4
+ 1441  sudo docker container ls
+ 1442  sudo docker container stop 052c4d4643a9
+ 1443  ps -ef | grep haptic
+ 1444  history
+ 1445  history > command.txt

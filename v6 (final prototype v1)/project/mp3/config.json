@@ -1,0 +1,12 @@
+{
+    "__comment1": "Obtain these values via Roboflow",
+    "ROBOFLOW_API_KEY": "ROBOFLOW_API_KEY",
+    "ROBOFLOW_WORKSPACE_ID": "ROBOFLOW_WORKSPACE_ID",
+    "ROBOFLOW_MODEL_ID": "ROBOFLOW_MODEL_ID",
+    "ROBOFLOW_VERSION_NUMBER": "#",
+    "ANNOTATION_FORMAT": "ANNOTATION_FORMAT",
+
+    "__comment2": "The following are only needed for infer-async.py",
+    "FRAMERATE": 24,
+    "BUFFER": 0.5
+}

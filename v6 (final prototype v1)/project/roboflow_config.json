@@ -1,0 +1,12 @@
+{
+    "__comment1": "Obtain these values via Roboflow",
+    "ROBOFLOW_API_KEY": "esXiQyyY9AGa6JY8zL1W",
+    "ROBOFLOW_WORKSPACE_ID": "vechtor",
+    "ROBOFLOW_MODEL_ID": "vechtor-plkjm",
+    "ROBOFLOW_VERSION_NUMBER": "1",
+    "ANNOTATION_FORMAT": "JSON",
+
+    "__comment2": "The following are only needed for infer-async.py",
+    "FRAMERATE": 24,
+    "BUFFER": 0.5
+}
